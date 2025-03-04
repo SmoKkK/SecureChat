@@ -34,14 +34,5 @@ This is a secure, real-time chat application built with Python (client) and Node
 - Message integrity verification
 - Encrypted message storage
 
-## File Structure
-```
-SCC/
-├── client.py          # Main client application
-├── server.js          # Chat server
-├── messages.json      # Encrypted message storage
-└── README.md         # Project documentation
-```
-
 ## License
-MIT License
+[MIT License](https://opensource.org/licenses/MIT)
